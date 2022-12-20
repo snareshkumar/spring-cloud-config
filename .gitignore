@@ -1,0 +1,10 @@
+insurance-client/mvnw.cmd
+insurance-client/configserver.code-workspace
+insurance-client/mvnw
+insurance-client/.mvn/wrapper/maven-wrapper.jar
+insurance-client/.mvn/wrapper/maven-wrapper.properties
+insurance-provider/mvnw
+insurance-provider/mvnw.cmd
+insurance-provider/.mvn/wrapper/maven-wrapper.jar
+insurance-provider/.mvn/wrapper/maven-wrapper.jar
+insurance-provider/.mvn/wrapper/maven-wrapper.properties
