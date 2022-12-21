@@ -20,9 +20,13 @@ Also config-server application uses the github as a source maintaining place. Th
 **How this can be tested** 
 
 **Step1** - Checkout all the projects
+
 **Step2** - Go to inside all the project directory and perform the below command
+
             mvn clean install
+            
 **Step3** - Run insurance-provider and config-server application respectively.
+
 **Step4** - Run config-server application.
 
 Please see, https://github.com/snareshkumar/insurance-config-github/blob/main/application.properties
